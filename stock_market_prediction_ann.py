@@ -14,5 +14,4 @@ from tensorflow import keras
 from tensorflow.keras.layers import Dense
 
 from sklearn.preprocessing import StandardScaler
-# from sklearn.
 
